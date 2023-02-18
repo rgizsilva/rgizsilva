@@ -13,7 +13,7 @@
 
 <img src="https://raw.githubusercontent.com/rgizsilva/rgizsilva/main/MACHINE.png" height="55" width="800"/>
 
-+ ### [Previsão de aluguel utilizando Regressão ](https://github.com/rgizsilva/Previsao-de-aluguel-utilizando-Regressao-Linear)
++ ### [Previsão de aluguel utilizando Regressão ](https://github.com/rgizsilva/Previsao-de-aluguel-utilizando-Regressao)
 + ### [Clusterização de clientes utilizando Pyspark e K-means](https://github.com/rgizsilva/Clusterizacao_clientes)
 + ### [Análise de dados para E-commerce utilizando Machine Learning](https://github.com/rgizsilva/Analise_dados_ecommerce)
 
