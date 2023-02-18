@@ -1,7 +1,15 @@
 
-#### 💬 Olá, seja bem vindo! Me chamo Reginaldo tenho 30 anos e atualmente estudo Ciência de Dados e Desenvolvimento de Sistemas.
-#### 💬 Meu objetivo é poder trabalhar na área de dados, atuando em análises e construção de modelos de Machine Learning. 
-#### 📌 Abaixo você encontra meus projetos divididos por tópicos 
++ ##### 💬 Olá, seja bem vindo! Me chamo Reginaldo tenho 30 anos e atualmente estudo Ciência de Dados e Desenvolvimento de Sistemas.
++ ##### 💬 Meu objetivo é poder trabalhar na área de dados, atuando em análises e construção de modelos de Machine Learning.
++ ##### 🔭 Tenho domínio nas ferramentas
+  - Python
+   - Scikit-Learn
+   - SQL
+  - Power Bi
+  - Excel
+  - Java
+  - Etl
++ ##### 📌 Abaixo você encontra meus projetos divididos por tópicos 
 
 <img src="https://raw.githubusercontent.com/rgizsilva/rgizsilva/main/MACHINE.png" height="55" width="800"/>
 
@@ -43,5 +51,5 @@
 
 ------
 
-#### Entre em contato comigo
+#### 📫 - Entre em contato comigo
 #### <img src="https://raw.githubusercontent.com/rgizsilva/rgizsilva/main/logo_linkedin.png" height="50" width="50"/> [Linkedin](https://www.linkedin.com/in/rgiz/)
