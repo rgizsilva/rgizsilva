@@ -39,6 +39,7 @@
 
 
 <img src="https://raw.githubusercontent.com/rgizsilva/rgizsilva/main/estats.png" height="55" width="800"/>
+
 + ### [Análise de Vendas utilizando Excel e Power Bi](https://github.com/rgizsilva/Analise_Vendas_Excel_PowerBi)
 
 
